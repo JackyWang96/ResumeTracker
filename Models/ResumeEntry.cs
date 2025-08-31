@@ -9,4 +9,5 @@ public class ResumeEntry
     public DateTime AppliedOn { get; set; } = DateTime.UtcNow;
     public string Source { get; set; } = string.Empty;     // LinkedIn / Website
     public string Status { get; set; } = "Pending";        // Pending / Interview / Offer / Rejected
+    public string JobLevel { get; set; } = string.Empty;
 }

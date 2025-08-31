@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumeTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9307e78756cd4f334299dd96fd3543ec2cc82b72")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumeTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumeTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
